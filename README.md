@@ -16,11 +16,11 @@ Java, Spring Framework, Hibernate, REST, JSON, JUnit, Mockito, Docker, MySQL and
 
 <p> <img src="https://komarev.com/ghpvc/?username=zafrullahsyed&style=flat-square&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 <p>
-<a align= "center" href="https://github.com/zafrullahsyed"> </a>
+<a align= "center" href="https://github.com/zafrullahsyed"> 
 <img align="center" alt= "stats card" height="200px" width="500" src="https://github-readme-streak-stats.herokuapp.com?user=zafrullahsyed&hide_border=true">
-</p>
-<img align="center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=zafrullahsyed&count_private=true&theme=radical&show_icons=true" />
 
+<img align="center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=zafrullahsyed&count_private=true&theme=radical&show_icons=true" /> </a>
+</p>
 <br><br>
 <hr>
 
