@@ -10,7 +10,7 @@ Flexible and adaptable across multiple development technologies and methodologie
 
 Professional Skills:
 Java, Spring Framework, Hibernate, REST, JSON, JUnit, Mockito, Docker, MySQL and Oracle 11g
-</h5>
+
 
 
 <p> <img src="https://komarev.com/ghpvc/?username=zafrullahsyed&style=flat-square&label=Profile%20views&color=0e75b6&style=flat"/> </p>
@@ -28,5 +28,5 @@ Java, Spring Framework, Hibernate, REST, JSON, JUnit, Mockito, Docker, MySQL and
 <a href="https://twitter.com/itszaif" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v2.png" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/zafrullahsyed/" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/45/000000/external-linkedin-social-media-justicon-flat-justicon.png" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
 <hr>
+</h5>
