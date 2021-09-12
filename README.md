@@ -29,4 +29,5 @@ Java, Spring Framework, Hibernate, REST, JSON, JUnit, Mockito, Docker, MySQL and
 <a href="https://www.linkedin.com/in/zafrullahsyed/" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/45/000000/external-linkedin-social-media-justicon-flat-justicon.png" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
+
 </h5>
