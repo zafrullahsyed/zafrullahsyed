@@ -10,7 +10,6 @@ Flexible and adaptable across multiple development technologies and methodologie
 
 Professional Skills:
 Java, Spring Framework, Hibernate, REST, JSON, JUnit, Mockito, Docker, MySQL and Oracle 11g
-
 </h5>
 
 
